@@ -10,6 +10,8 @@ import java.util.List;
 @Mapper
 
 public interface TabMapper {
-
+    /*
+    * kkkkk
+    * */
     List<Tab> tabList();
 }
