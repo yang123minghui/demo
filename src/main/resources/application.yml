@@ -13,3 +13,5 @@ spring:
 mybatis:
   type-aliases-package: com.example.demo.pojo
   mapper-locations: classpath:mapping/*.xml
+logging:
+  file: springlog.log
